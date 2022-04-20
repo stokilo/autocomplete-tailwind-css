@@ -1,0 +1,25 @@
+<svg
+        xmlns="http://www.w3.org/2000/svg"
+        width="24"
+        height="24"
+        viewBox="0 0 200 200"
+>
+    <path
+            d="
+                M 0, 54.5
+                C 0, 43.055 43.055, 0 54.5, 0
+                S 109, 43.055 109, 54.5
+                    65.945, 109 54.5, 109
+                    0, 65.945 0, 54.5
+            "
+            fill="#FADB5F"
+            transform="rotate(
+                14,
+                100,
+                100
+            ) translate(
+                45.5
+                45.5
+            )"
+    ></path>
+</svg>
